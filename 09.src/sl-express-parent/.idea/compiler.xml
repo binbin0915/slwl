@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sl-express-ms-carriage-api" />
+        <module name="sl-express-ms-dispatch-service" />
+        <module name="sl-express-ms-sms-api" />
+        <module name="sl-express-ms-search-service" />
+        <module name="sl-express-ms-service-scope-service" />
+        <module name="sl-express-ms-track-domain" />
+        <module name="sl-express-ms-service-scope-domain" />
+        <module name="sl-express-ms-carriage-domain" />
+        <module name="sl-express-ms-transport-api" />
+        <module name="sl-express-ms-driver-service" />
+        <module name="sl-express-ms-work-domain" />
+        <module name="sl-express-ms-web-driver" />
+        <module name="sl-express-xxl-job" />
+        <module name="sl-express-ms-base-domain" />
+        <module name="sl-express-ms-courier-service" />
+        <module name="sl-express-ms-track-api" />
+        <module name="sl-express-common" />
+        <module name="sl-express-ms-web-courier" />
+        <module name="sl-express-ms-user-api" />
+        <module name="sl-express-pay" />
+        <module name="sl-express-ms-user-service" />
+        <module name="sl-express-ms-courier-domain" />
+        <module name="sl-express-ms-transport-info-domain" />
+        <module name="sl-express-ms-oms-service" />
+        <module name="sl-express-ms-oms-api" />
+        <module name="sl-express-ms-trade-domain" />
+        <module name="sl-express-ms-user-domain" />
+        <module name="sl-express-ms-trade-service" />
+        <module name="sl-express-ms-search-api" />
+        <module name="sl-express-ms-sms-domain" />
+        <module name="sl-express-ms-work-api" />
+        <module name="sl-express-ms-sms-service" />
+        <module name="sl-express-ms-web-customer" />
+        <module name="sl-express-ms-transport-info-api" />
+        <module name="sl-express-ms-transport-info-service" />
+        <module name="sl-express-ms-trade-api" />
+        <module name="sl-express-ms-work-service" />
+        <module name="sl-express-gateway" />
+        <module name="sl-express-ms-base-service" />
+        <module name="sl-express-ms-transport-domain" />
+        <module name="sl-express-ms-service-scope-api" />
+        <module name="sl-express-mq" />
+        <module name="sl-express-ms-courier-api" />
+        <module name="sl-express-ms-carriage-service" />
+        <module name="sl-express-ms-driver-domain" />
+        <module name="sl-express-ms-web-manager" />
+        <module name="sl-express-ms-oms-domain" />
+        <module name="sl-express-ms-base-api" />
+        <module name="sl-express-ms-transport-service" />
+        <module name="sl-express-ms-search-domain" />
+        <module name="sl-express-ms-track-service" />
+        <module name="sl-express-ms-driver-api" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

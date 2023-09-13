@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/sl-express-ms-driver-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-driver-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-driver-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-driver-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-search-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-search-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-search-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-search-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-sms-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-sms-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-sms-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-sms-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-web-courier/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-express-ms-web-courier/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
